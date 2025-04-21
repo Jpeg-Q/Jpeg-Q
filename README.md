@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Puneet! </h1>
+
+<h2>Cyber Security Projects:</h2>
+
+- <b>Tenable</b>
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**Jpeg-Q/Jpeg-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
